@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">min3s</string>
+    <string name="bomb_counter">b*mbs: </string>
+</resources>
